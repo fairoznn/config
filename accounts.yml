@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to BrandonBank accounts related sdas APIs "
+  message: "Welcome to BrandonBank accounts related dsfdfsdas APIs "
   contactDetails:
     name: "Brandon Browns - Developer"
     email: "brandon@brownsbank.com"
